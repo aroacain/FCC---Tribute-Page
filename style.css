@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f7fff6;
+  color: #444854;
+}
+
+header {
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 4rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h3 {
+  padding: 1rem 3rem;
+}
+
+ul {
+  line-height: 2;
+  text-align: left;
+  width: 50%;
+  margin: 1rem auto;
+}
+
+#subheading {
+  font-size: 1rem;
+}
+
+#img-div {
+  background-color: #e5ddd2;
+  margin: 1rem 10%;
+  padding: 2rem;
+  border-radius: 5%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1rem;
+  border-radius: 5%;
+  max-width: 100%;
+  max-height: auto;
+}
